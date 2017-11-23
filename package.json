@@ -5,7 +5,8 @@
   "dependencies": {
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
-    "react-scripts": "1.0.17"
+    "react-scripts": "1.0.17",
+    "redoc": "^2.0.0-alpha.1"
   },
   "scripts": {
     "start": "react-scripts start",
