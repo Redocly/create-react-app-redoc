@@ -7,7 +7,7 @@
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-scripts": "1.1.4",
-    "redoc": "2.0.0-alpha.30"
+    "redoc": "^2.0.0-alpha.30"
   },
   "scripts": {
     "start": "react-scripts start",
